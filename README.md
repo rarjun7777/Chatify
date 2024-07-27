@@ -1,6 +1,6 @@
 # ChatApp
 
-# You can download the APK for this Flutter chat application 
+# You can download the APK for this Flutter chat application above 
 
 # Overview
 This Flutter application provides a platform where users can register, log in, and chat with each other. It's a simple yet powerful chat app leveraging Firebase for authentication and real-time messaging. The app features a clean and intuitive user interface, making it easy for users to communicate seamlessly.
